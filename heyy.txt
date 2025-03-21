@@ -1,3 +1,3 @@
 i am testing revert
 
-let's see reset - soft 
+testing revert 1 
